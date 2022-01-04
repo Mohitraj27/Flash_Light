@@ -7,7 +7,7 @@ This application is made with help of YouTube but still I have explored  many ne
 - cameraAccessException , cameraManager ,RequiresApi packages are imported in java File
 - Dexter dependencies is added in gradle file which simplifies the process of requesting permission at runtime.
 - Toast widget will popUp a message for Camera Permission.
-- Try Catch & If else Conecpts are also used.
+- Try Catch & If else Concepts are also used.
 - ImageButton and Relative Layout widget are used in XML File.
 - Image is imported in Drawable file.
 - theme and Color values are changed.
